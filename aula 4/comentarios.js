@@ -7,3 +7,4 @@ console.log('Linha 3');
 console.log('Linha 4');
 */
 //todos os comentários com a barra (//), sera ignorada.
+//Teste
