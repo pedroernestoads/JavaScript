@@ -25,3 +25,13 @@ console.log(typeof num1);
 //Outro tipo de conversão realmente converte para string
 num1 = num1.toString();
 console.log(typeof num1);
+
+
+//Flutuante
+num1 = parsefloat(num1.toFixed(2));
+
+console.log(num1);
+console.log(Number.integer(num1));
+
+//Resolvendo a imprecisao
+num1 = Number(num1.toFixed(num1));
