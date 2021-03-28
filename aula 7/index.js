@@ -21,6 +21,7 @@ resultadoTriplicado = resultadoTriplicado + 5;
 console.log(primeiroNumero + segundoNumero);
 
 //Dentro de aspas e String = Text  fora das aspas | e do tipo Number = Número
+// Typeof nos retorna o tipo de dado
 
 console.log(typeof(primeiroNumero));
 
